@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stephen</h1>
-<h3 align="center">This is the graveyard for my once enthusiastically started side-projects go to die</h3>
+<h3 align="justify">This is the graveyard for my once enthusiastically started side-projects go to die.</h3>
 
 
 # 💻 Tech Stack:
@@ -14,6 +14,8 @@
 ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=plastic&logo=blazor&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white)
+![vscode](https://img.shields.io/badge/vscode-%23007ACC.svg?style=plastic&logo=visual%20studio%20code&logoColor=white)
+![visualstudio](https://img.shields.io/badge/visualstudio-%23007ACC.svg?style=plastic&logo=visual%20studio&logoColor=white)
 ![git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) 
 
@@ -23,5 +25,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=stephenburrows&theme=tokyonight&hide_border=false)<br/>
 
 ---
-<img src="https://komarev.com/ghpvc/?username=stephenburrows&label=Profile%20views&color=0e75b6&style=flat" alt="stephenburrows" /> </p>
+<img src="https://komarev.com/ghpvc/?username=stephenburrows&label=Profile%20views&color=0e75b6&style=plastic" alt="stephenburrows" /> </p>
 
