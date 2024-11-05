@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Stephen</h1>
 <h3 align="center">This is the graveyard for my once enthusiastically started side-projects go to die</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stephenburrows&label=Profile%20views&color=0e75b6&style=flat" alt="stephenburrows" /> </p>
 
 # 💻 Tech Stack:
 
