@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stephen</h1>
-<h3 align="justify">This is the graveyard for my once enthusiastically started side-projects go to die.</h3>
+<h3 align="justify">This is the graveyard where my once enthusiastically started side-projects go to die.</h3>
 
 
 # 💻 Tech Stack:
